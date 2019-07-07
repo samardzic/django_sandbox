@@ -1,0 +1,13 @@
+{
+    // Linux & T460:
+    // "~/.venv/open_cv/bin/python3.7",
+    // "~/.venv/qt_gui/bin/python3.7",
+    "~/.venv/corey/bin/python3.7",
+    // "~/.venv/can_project/bin/python3.7", 
+    // "/usr/bin/python",
+    // "/usr/bin/python2",
+    // "/usr/bin/python3",
+    "python.linting.pylintEnabled": false,
+    "python.linting.pep8Enabled": true,
+    "python.linting.enabled": true
+}
