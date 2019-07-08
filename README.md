@@ -7,3 +7,7 @@ Django playground
 - python manage.py runserver
 
 - python manage.py startapp articles
+
+- python manage.py makemigrations
+
+- python manage.py migrate
