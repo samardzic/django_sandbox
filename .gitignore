@@ -1,4 +1,6 @@
+# https://github.com/Microsoft/vscode/issues/40742
+# git rm --cached .vscode/settings.json
 
 # Ignore content of VSCODE settings folder 
 .vscode/*
-
+/.vscode/
