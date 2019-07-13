@@ -7,3 +7,5 @@
 
 # Ignore content of all python compile files 
 *.pyc
+*.pyo
+__pycache__/
