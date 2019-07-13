@@ -4,3 +4,6 @@
 # Ignore content of VSCODE settings folder 
 .vscode/*
 /.vscode/
+
+# Ignore content of all python compile files 
+*.pyc
